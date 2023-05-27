@@ -15,7 +15,7 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "QCE-23: Quantum System Stability and Reproducibility Workshop"
+title:       "StableQ: Quantum System Stability and Reproducibility Workshop"
 keywords:    "quantum computing, NISQ, VQA, quantum machine learning, Quantum System Stability, Reproducibility"
 description: "-"
 
