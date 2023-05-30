@@ -19,8 +19,8 @@ title:       "StableQ: Quantum System Stability and Reproducibility Workshop"
 keywords:    "quantum computing, NISQ, VQA, quantum machine learning, Quantum System Stability, Reproducibility"
 description: "-"
 
-# source_link: "https://github.com/stableq/stableq.github.io"
-source_link: "https://stableq.github.io/stableq/"
+source_link: "https://github.com/stableq/stableq.github.io"
+# source_link: "https://stableq.github.io/stableq/"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-55665759-3
